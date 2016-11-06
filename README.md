@@ -2,7 +2,7 @@
 
 Linkek:
 
-1. [Weblap](https://techtabor.github.io/).
+1. [Weblap](https://techtabor.github.io/)
 1. [A projekt leírása](https://docs.google.com/document/d/1wEQbOkPK2Q9OjjDVYJZye2mSDG0rDqPA2ZywXxd887Y/edit#) 
 
 ## Használat
