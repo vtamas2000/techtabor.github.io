@@ -510,11 +510,15 @@ body {
             .project-category {
                 text-transform: uppercase;
                 font-weight: 600;
-                font-size: 14px;
+                font-size: 22px;
             }
             .project-name {
-                font-size: 18px;
+                font-size: 16px;
             }
+        }
+        &.portfolio-box-caption-always-present {
+            background: rgba( $theme-primary, 1 );
+            opacity: 1;
         }
     }
     &:hover {
@@ -526,10 +530,10 @@ body {
         .portfolio-box-caption {
             .portfolio-box-caption-content {
                 .project-category {
-                    font-size: 16px;
+                    font-size: 22px;
                 }
                 .project-name {
-                    font-size: 22px;
+                    font-size: 16px;
                 }
             }
         }
