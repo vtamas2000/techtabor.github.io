@@ -291,16 +291,15 @@ section {
       }
     }
   }
-  &.cta {
+  &.cta, &.support {
     position: relative;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
     background-position: center;
-    background-image: url('../img/bg-cta.jpg');
     padding: 250px 0;
-    .cta-content {
+    .cta-content, .support-content {
       position: relative;
       z-index: 1;
       h2 {
@@ -309,6 +308,10 @@ section {
         color: white;
         max-width: 450px;
         font-size: 50px;
+      }
+      p {
+        color: white;
+        font-size: 16px;
       }
     }
     .overlay {
@@ -319,6 +322,12 @@ section {
       top: 0;
       left: 0;
     }
+  }
+  &.cta {
+    background-image: url('../img/bg-cta.jpg');
+  }
+  &.support {
+    background-image: url('../img/bg-support.jpg');
   }
   &.contact {
     text-align: center;
@@ -392,8 +401,11 @@ section {
 }
 
 @media (min-width: 768px) {
-  section.cta .cta-content h2 {
+  section.cta .cta-content h2, section.support .support-content h2 {
     font-size: 80px;
+  }
+  section.cta .cta-content p, section.support .support-content p {
+    font-size: 24px;
   }
 }
 
