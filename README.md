@@ -1,5 +1,4 @@
 # Techtábor weblap
-=========================
 
 A weblap projekt leírása [itt](https://docs.google.com/document/d/1wEQbOkPK2Q9OjjDVYJZye2mSDG0rDqPA2ZywXxd887Y/edit#) található.
 
