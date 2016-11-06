@@ -23,13 +23,13 @@ social:
   - title: web
     url: http://agondolkodasorome.hu
   - title: facebook
-    url: https://facebook.com/agondolkodasorome
+    url: https://facebook.com/A.Gondolkodas.Orome.Alapitvany
   #- title: google-plus
   #  url: https://plus.google.com/+AntoniotrentoIt
   - title: github
     url: http://github.com/techtabor
   - title: email
-    url: mailto:tech@tech.hu
+    url: mailto:agondolkodasorome@gmail.com
 
 # Build settings
 markdown: kramdown
