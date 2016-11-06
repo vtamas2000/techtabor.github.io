@@ -28,6 +28,8 @@ social:
   #  url: https://plus.google.com/+AntoniotrentoIt
   - title: github
     url: http://github.com/techtabor
+  - title: email
+    url: mailto:tech@tech.hu
 
 # Build settings
 markdown: kramdown
