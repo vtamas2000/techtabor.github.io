@@ -34,11 +34,54 @@
 // }
 
 // variables.less link and gradient background
-$head-primary: #7b4397 ;
-$head-secondary: #dc2430 ;
-$theme-primary: #fdcc52 ;
-$theme-secondary: #fdc539 ;
+// $head-primary: #7b4397 ;
+// $head-secondary: #dc2430 ;
+// $theme-primary: #fdcc52 ;
+// $theme-secondary: #fdc539 ;
+// $theme-dark: #222;
+
+// $head-primary: #403075 ;
+// $head-secondary: #2E4372 ;
+// $theme-primary: #403075 ;
+// $theme-secondary: #2E4372 ;
+// $theme-dark: #222;
+
+// $head-primary: #403075 ;
+// $head-secondary: #26175B ;
+// $theme-primary: #2E4372 ;
+// $theme-secondary: #572A72 ;
+// $theme-dark: #222;
+
+// $head-primary: #403075 ;
+// $head-secondary: #26175B ;
+// $theme-primary: #AA8439 ;
+// $theme-secondary: #AAA939 ;
+// $theme-dark: #222;
+
+// GOOD
+// $head-primary: #403075 ;
+// $head-secondary: #26175B ;
+// $theme-primary: #4E618B ;
+// $theme-secondary: #734A8B ;
+// $theme-dark: #222;
+
+$head-primary: #403075 ;
+$head-secondary: #26175B ;
+$theme-primary: #D0AD6A ;
+$theme-secondary: #D0CF6A ;
 $theme-dark: #222;
+
+// $head-primary: #403075 ;
+// $head-secondary: #26175B ;
+// $theme-primary: #F6DBA8 ;
+// $theme-secondary: #F6F5A8 ;
+// $theme-dark: #222;
+
+// $theme-primary: #403075 ;
+// $theme-secondary: #2E4372 ;
+// $theme-dark: #572A72;
+
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
