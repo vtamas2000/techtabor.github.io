@@ -20,7 +20,7 @@ url: "https://techtabor.github.io" # the base hostname & protocol for your site
 social:
   #- title: twitter
   #  url: https://twitter.com/lantoniotrento
-  - title: web
+  - title: globe
     url: http://agondolkodasorome.hu
   - title: facebook
     url: https://facebook.com/A.Gondolkodas.Orome.Alapitvany
@@ -28,7 +28,7 @@ social:
   #  url: https://plus.google.com/+AntoniotrentoIt
   - title: github
     url: http://github.com/techtabor
-  - title: email
+  - title: envelope
     url: mailto:agondolkodasorome@gmail.com
 
 # Build settings
