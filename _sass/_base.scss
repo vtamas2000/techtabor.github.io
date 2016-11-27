@@ -287,6 +287,9 @@ section {
     .device-container, .feature-item {
       max-width: 300px;
       margin: 0 auto;
+      .screen img {
+        border-radius: 3px;
+      }
     }
     .device-container {
       margin-bottom: 100px;
