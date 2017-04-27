@@ -8,4 +8,12 @@ header-img: "img/projektek/timetable.jpg"
 categories: projektek
 ---
 
-Mi az iskolai tantermek foglalásának hatékonyabbá tételéhez fejlesztünk egy weblapot. (Ami a legkevésbé sem működik per pillanat)
+<h2>A projekt célja:</h2>
+
+<p>A tanárok és a diákok számára is egyszerűbbé és átláthatóbbá szeretnénk tenni az eligazodást az órarendben. Ezért hoztuk létre a Teremfoglaló-appot, melynek segítségével a tanárok előre lefoglalhatják az üres termeket, valamint helyet kereshetnek óráik számára.</p>
+
+<h2>A használt technológiák:</h2>
+
+* Nodejs
+* HTML + Javascript
+* EJS template
